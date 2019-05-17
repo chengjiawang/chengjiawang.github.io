@@ -59,7 +59,7 @@
           <entry key="Gemfile" value="1" />
           <entry key="css" value="108" />
           <entry key="html" value="3467" />
-          <entry key="md" value="15760" />
+          <entry key="md" value="15768" />
           <entry key="scss" value="1309" />
           <entry key="yml" value="1261" />
         </counts>
@@ -68,7 +68,7 @@
         <counts>
           <entry key="CSS" value="108" />
           <entry key="HTML" value="3467" />
-          <entry key="Markdown" value="15760" />
+          <entry key="Markdown" value="15768" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="1309" />
           <entry key="YAML" value="1261" />
@@ -134,7 +134,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="63" selection-start-column="63" selection-end-column="63" />
+                <caret column="49" selection-start-column="49" selection-end-column="49" />
               </first_editor>
               <second_editor />
             </state>
@@ -373,12 +373,12 @@
       <workItem from="1557541643991" duration="25068000" />
       <workItem from="1557629643760" duration="17556000" />
       <workItem from="1557749375346" duration="22796000" />
-      <workItem from="1557840413958" duration="86660000" />
+      <workItem from="1557840413958" duration="86712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166820000" />
+    <option name="totallyTimeSpent" value="166872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-8" width="2560" height="1329" extended-state="6" />
@@ -808,7 +808,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="63" selection-start-column="63" selection-end-column="63" />
+            <caret column="49" selection-start-column="49" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>
