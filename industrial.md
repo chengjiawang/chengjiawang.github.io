@@ -1,6 +1,6 @@
 ---
 title: Commercialisation and Industrial Funding
-layout: projects
+layout: industrials
 image:
 # Specify the layout for this section
 include: 
