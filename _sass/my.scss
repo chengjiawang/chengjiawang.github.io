@@ -1,0 +1,307 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2a7ae2 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-light-light: lighten($grey-color, 99%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+$orange-color:     #f66a0a !default;
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         $on-laptop !default;
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+  //     padding-right: $spacing-unit / 2;
+  //     padding-left: $spacing-unit / 2;
+  //   }
+// }
+// Notice the following mixin uses max-width, in a deprecated, desktop-first
+// approach, whereas media queries used elsewhere now use min-width.
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+.table_noborder {
+  width: 100%;
+  /*color: lighten($text-color, 18%);
+  border-collapse: collapse;
+  border: 0px solid $grey-color-light;
+  tr {
+    &:nth-child(even) {
+      background-color: lighten($grey-color-light, 6%);
+    }
+  }
+  th, td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+  }
+  th {
+    background-color: lighten($grey-color-light, 3%);
+    border: 1px solid darken($grey-color-light, 4%);
+    border-bottom-color: darken($grey-color-light, 12%);
+  }
+  td {
+    border: 1px solid $grey-color-light;
+  }*/
+}
+
+/**
+ * Wrapper
+ */
+.my-wrapper {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  //border-bottom: 1px solid $grey-color-light;
+  border-bottom: 2px solid $grey-color-dark;
+}
+
+.my-wrapper-begin {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0;
+  padding-bottom: $spacing-unit;
+  border-bottom: 2px solid $grey-color-dark;
+}
+
+.my-wrapper-end {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0.5 * $spacing-unit;
+  padding-bottom: 0.1 * $spacing-unit;;
+  border-bottom: 0;
+}
+
+.site-footer {
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
+}
+
+// navs
+.site-nav ul li a {
+  color: $text-color;
+}
+
+.site-nav ul {
+
+  text-align: right;
+  float: left;
+  //padding-top: 9px;
+  font-size: 0.8*$base-font-size;
+  letter-spacing: 1px;
+  line-height: 1em;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  position: fixed;
+  background-color: $background-color;
+}
+
+.site-nav .menu > li {
+  //border-bottom: 3px solid transparent;
+  display: inline-block;
+  //height: 23px;
+  line-height: normal;
+  margin: 12px 0 0 20px;
+  padding: 0 0 2px 0;
+  position: relative;
+  //vertical-align: top;
+  text-transform: uppercase;
+  background-color: $background-color;
+}
+
+.site-nav a {
+  display: block;
+}
+
+/* Sub Menu */
+
+.site-nav .sub-menu a {
+  display: block;
+  font-weight: normal;
+  height: auto;
+  letter-spacing: 0;
+  line-height: 1.2em;
+  padding: 4px 10px;
+  alignment: left;
+  text-transform: none;
+}
+
+.site-nav .sub-menu a:hover {
+}
+.site-nav  .sub-menu {
+  background: $background-color;
+  min-width: 265px;
+  text-transform: none;
+  z-index:2147483647;
+}
+.site-nav .sub-menu li.current-menu-item > a {
+  border-right: 0px;
+  text-transform: none;
+
+}
+
+
+.sub-menu {
+  border: 3px solid transparent;
+  border-top: 0;
+  /* bg and border colors set in header */
+  box-shadow: 0 2px 2px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
+  -webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
+  display: none;
+  position: absolute;
+  text-align: left;
+  text-transform: none;
+  top: 28px;
+  min-width: 265px;
+  background-color: $background-color;
+  z-index:999;
+  //right: -10px;
+
+}
+
+.sub-menu li {
+  border-bottom: 0;
+  display: block;
+  height: auto;
+  margin: 3px 0;
+  padding: 0;
+  text-align: left;
+}
+
+.site-nav li:hover > .sub-menu {
+  display: block;
+}
+
+.site-nav h1 {
+  position: absolute;
+  left: -999em;
+}
+
+
+.site-nav {
+  float: left;
+  //alignment: right;
+  //text-align: right;
+  line-height: 40px;
+  background-color: $background-color;
+
+  .menu-icon {
+    display: none;
+  }
+
+  .page-link {
+    line-height: $base-line-height;
+    // Gaps between nav items, but not on the first one
+
+    margin-left: 20px;
+
+    //&:not(:first-child) {
+    //  margin-left: 20px;
+    //}
+
+  }
+
+
+
+  @include media-query($on-palm) {
+    position: absolute;
+    top: 9px;
+    right: 30px;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: left;
+
+    .menu-icon {
+      display: block;
+      float: left;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg {
+        width: 18px;
+        height: 15px;
+
+        path {
+          fill: $grey-color-dark;
+        }
+      }
+    }
+
+    .trigger {
+      clear: both;
+      display: none;
+    }
+
+    &:hover .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+    }
+  }
+}
+
+.PageTitle {
+  font-size: 1.5*$base-font-size;
+}
+
+.title-line {
+  color: $grey-color-light-light;
+  border-bottom: 1px;
+}
+
+img[alt=proj_image] {
+  width: 81%;
+  alignment: center;
+  display: block;
+  //margin-left: auto;
+  //margin-right: auto;
+}

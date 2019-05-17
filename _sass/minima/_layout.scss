@@ -16,7 +16,7 @@
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  //float: left;
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -29,20 +29,21 @@
 }
 
 .site-nav {
-  position: absolute;
+  position: relative;
   top: 9px;
-  right: $spacing-unit / 2;
+  left: 50%;
   background-color: $background-color;
   border: 1px solid $grey-color-light;
   border-radius: 5px;
-  text-align: right;
+  text-align: left;
+  float: left;
 
   .nav-trigger {
       display: none;
   }
 
   .menu-icon {
-    float: right;
+    float: left;
     width: 36px;
     height: 26px;
     line-height: 0;

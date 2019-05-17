@@ -1,0 +1,22 @@
+<ul class="menu">
+  {% for steve in site.data.menu %}
+  {% if steve.subcategories != null %}
+  <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
+    <ul class="sub-menu">
+      {% for subcategory in steve.subcategories %}
+      {% if subcategory.href != null %}
+      <li><a href="{{ subcategory.href }}">{{ subcategory.subtitle }}</a></li>
+      {% elsif steve.href != null %}
+      {% assign link = steve.href | append: "#" | append: subcategory.subhref %}
+      <li><a href="{{ link }}">{{ subcategory.subtitle }}</a></li>
+      {% else %}
+      <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% else %}
+  <li><a href="{{ steve.href }}" class="page-link">{{ steve.title }}</a>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,70 @@
+#- title: "Home"
+#  href: "/"
+#  subcategories:
+#    - subtitle: ""
+#      subhref: "#Bio"
+#    - subtitle: "Research Interests"
+#      subhref: "#research-interests"
+
+- title: "Research"
+  href: "/"
+  subcategories:
+  - subtitle: "Research Interests"
+    subhref: "research-interests"
+  - subtitle: "News&Events"
+    subhref: "news-upcoming-events"
+  - subtitle: "Selected Publications"
+    subhref: "selected-publications-and-patents"
+  - subtitle: "Fundings&Awards"
+    subhref: "selected-fundings-awards"
+  - subtitle: "Talks"
+    subhref: "talks"
+#  - subtitle: "Media"
+#    subhref: "/#media"
+  - subtitle: "Professional Activities"
+    subhref: "professional-activities"
+  - subtitle: "Projects"
+    href: "/Projects/"
+
+- title: "Projects"
+  href: "/Projects/"
+
+# Industry
+- title: "Industrial"
+  href: "/Industrial/"
+  subcategories:
+  - subtitle: "Why and How"
+    subhref: "why-and-how"
+  - subtitle: "Companies and Activities"
+    subhref: "companies-and-activities"
+  - subtitle: "FAQ"
+    subhref: "faq"
+
+
+- title: "For Students"
+  href: "/for-students/"
+  subcategories:
+  - subtitle: "FAQ"
+    subhref: "/for-students/FAQ"
+#  - subtitle: "Pi Sigma Alpha"
+#    subhref: "/for-students/pi-sigma-alpha/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+  - subtitle: "IIAT Deep learning course - Tensorlayer"
+    subhref: "/teaching/posc-1020-introduction-to-international-relations/"
+  - subtitle: "IIAT Deep learning course - Pytorch"
+    subhref: "/teaching/a"
+  - subtitle: "Machine learning for clinicians - Matlab"
+    subhref: "/teaching/posc-3410-quantitative-methods-in-political-science/"
+
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
+#  - subtitle: "Clean USAID Greenbook Data"
+#    subhref: "/miscellany/clean-usaid-greenbook-data/"
+#  - subtitle: "Journal of Peace Research *.bst File"
+#    subhref: "/miscellany/journal-of-peace-research-bst-file/"
+#  - subtitle: "My Custom Beamer Style"
+#    subhref: "/miscellany/my-custom-clemson-themed-beamer-style/"

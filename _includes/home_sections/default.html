@@ -1,0 +1,17 @@
+{% capture bg-image-style %}
+style="background:{% if section.bg-opaque-overlay != nil %} linear-gradient(
+{{ section.bg-opaque-overlay }},
+{{ section.bg-opaque-overlay }}
+),{% endif %} {% if section.bg_image != nil %}url('{{ section.bg_image }}') center center fixed; background-size: cover;{% endif %}"
+{% endcapture %}
+
+<section id="{{ section.title | slugify }}" class="my-wrapper"{{ bg-image-style }}>
+  <div class="row">
+    <div class="home">
+      {% if section.title != null %}
+      <h1><strong>{{ section.title }}</strong></h1>
+      {% endif %}
+      {{ section.content }}
+    </div>
+  </div>
+</section>

@@ -10,7 +10,6 @@ dl, dd, ol, ul, figure {
 }
 
 
-
 /**
  * Basic styling
  */
@@ -48,6 +47,7 @@ ul, ol, dl, figure,
  */
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  width: 100%;
 }
 
 
@@ -108,7 +108,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($brand-color, 5%);
   }
 
   &:hover {
@@ -230,13 +230,15 @@ pre {
 /**
  * Tables
  */
+
+
 table {
-  margin-bottom: $spacing-unit;
+  //margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
+  /*color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  border: 0px solid $grey-color-light;
   tr {
     &:nth-child(even) {
       background-color: lighten($grey-color-light, 6%);
@@ -252,5 +254,5 @@ table {
   }
   td {
     border: 1px solid $grey-color-light;
-  }
+  }*/
 }
