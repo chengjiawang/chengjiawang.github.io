@@ -4,7 +4,7 @@ order: 3
 permalink: #News-Upcoming-Events
 ---
 * [**upcoming**] Attending IJCAI2019 and ICVSS 2019 <br>
-* [**upcoming**] Our Tensorlayer2.0 course imaging course starting this year in [IIAT](http://106.15.88.217/), Hangzhou.<br>
+* [**upcoming**] Our Tensorlayer2.0 course imaging course starting this June in [IIAT](http://106.15.88.217/), Hangzhou.<br>
 * [**upcoming**] I'm going to deliver a talk in IIAT, Hangzhou <br>
 * [05/2019] Two papers accepted to ACCESS and IJCAI2019 and joint Network <br>
 * [04/2019] Two papers accepted in PSMR, TMI and TIP paper now under review <nr>

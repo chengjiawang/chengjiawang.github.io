@@ -34,11 +34,11 @@
   href: "/Industrial/"
   subcategories:
   - subtitle: "Why and How"
-    subhref: "why-and-how"
+    subhref: "#"
   - subtitle: "Companies and Activities"
     subhref: "companies-and-activities"
   - subtitle: "FAQ"
-    subhref: "faq"
+    subhref: ""
 
 
 - title: "For Students"
@@ -46,18 +46,16 @@
   subcategories:
   - subtitle: "FAQ"
     subhref: "/for-students/FAQ"
-#  - subtitle: "Pi Sigma Alpha"
-#    subhref: "/for-students/pi-sigma-alpha/"
 
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
   - subtitle: "IIAT Deep learning course - Tensorlayer"
-    subhref: "/teaching/posc-1020-introduction-to-international-relations/"
+    subhref: ""
   - subtitle: "IIAT Deep learning course - Pytorch"
-    subhref: "/teaching/a"
+    subhref: ""
   - subtitle: "Machine learning for clinicians - Matlab"
-    subhref: "/teaching/posc-3410-quantitative-methods-in-political-science/"
+    subhref: ""
 
 #- title: "Miscellany"
 #  href: "/miscellany/"
