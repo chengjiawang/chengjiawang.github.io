@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="229f7762-9b16-40d6-af23-f25476ff460d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/media.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/menu.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_home_sections/award_and_funding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_home_sections/news.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_home_sections/professional_activities.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_home_sections/research_interests.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_home_sections/selected_publications.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_home_sections/talks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/basic_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/footer_bk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/home_sections/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/home_sections/end_sections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/project_sections/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/project_sections/end_sections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/short_bio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_industrial/CompaniesAndActivities.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_industrial/FAQ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/short_bio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_projects/DicycleGANBrain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_projects/Multimodalregistration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_projects/Multimodalsegmentation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_projects/OldRegistration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_projects/RegistrationGUI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_projects/SalientObjectDetection.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_research_sections/award_and_funding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_research_sections/news.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_research_sections/press.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_research_sections/professional_activities.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_research_sections/research_interests.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_research_sections/selected_publications.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_research_sections/talks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_research_sections/upcoming_events.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/my.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/DicycleGANBrainbk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/photo_id.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/industrial.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-my-example-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-20-my-example-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minima.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minima.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minima/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minima/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minima/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minima/_layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,7 +34,7 @@
           <entry key="gitignore" value="2" />
           <entry key="html" value="93" />
           <entry key="markdown" value="2" />
-          <entry key="md" value="77" />
+          <entry key="md" value="78" />
           <entry key="png" value="1" />
           <entry key="rb" value="1" />
           <entry key="scss" value="52" />
@@ -103,7 +47,7 @@
           <entry key="CSS" value="5" />
           <entry key="HTML" value="93" />
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="79" />
+          <entry key="Markdown" value="80" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="SCSS" value="52" />
           <entry key="SVG" value="1" />
@@ -115,7 +59,7 @@
           <entry key="Gemfile" value="1" />
           <entry key="css" value="108" />
           <entry key="html" value="3467" />
-          <entry key="md" value="15672" />
+          <entry key="md" value="15711" />
           <entry key="scss" value="1309" />
           <entry key="yml" value="1261" />
         </counts>
@@ -124,7 +68,7 @@
         <counts>
           <entry key="CSS" value="108" />
           <entry key="HTML" value="3467" />
-          <entry key="Markdown" value="15672" />
+          <entry key="Markdown" value="15711" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="1309" />
           <entry key="YAML" value="1261" />
@@ -153,11 +97,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/minima/_syntax-highlighting.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/industrial.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -181,11 +120,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="38" selection-start-column="38" selection-end-column="38" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -270,7 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/article.html" />
         <option value="$PROJECT_DIR$/_includes/home_contents/short_bio.html" />
         <option value="$PROJECT_DIR$/_plugins/mdblock.rb" />
         <option value="$PROJECT_DIR$/_includes/home_contents/short_bio.md" />
@@ -321,6 +271,7 @@
         <option value="$PROJECT_DIR$/_data/menu.yml" />
         <option value="$PROJECT_DIR$/industrial.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -422,12 +373,12 @@
       <workItem from="1557541643991" duration="25068000" />
       <workItem from="1557629643760" duration="17556000" />
       <workItem from="1557749375346" duration="22796000" />
-      <workItem from="1557840413958" duration="85952000" />
+      <workItem from="1557840413958" duration="86567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166112000" />
+    <option name="totallyTimeSpent" value="166727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-8" width="2560" height="1329" extended-state="6" />
@@ -478,13 +429,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -857,6 +801,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="38" selection-start-column="38" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
