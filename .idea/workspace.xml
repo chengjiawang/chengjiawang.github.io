@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="229f7762-9b16-40d6-af23-f25476ff460d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,7 +39,7 @@
           <entry key="rb" value="1" />
           <entry key="scss" value="52" />
           <entry key="svg" value="1" />
-          <entry key="yml" value="15" />
+          <entry key="yml" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -51,7 +51,7 @@
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="SCSS" value="52" />
           <entry key="SVG" value="1" />
-          <entry key="YAML" value="15" />
+          <entry key="YAML" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -61,7 +61,7 @@
           <entry key="html" value="3467" />
           <entry key="md" value="15768" />
           <entry key="scss" value="1309" />
-          <entry key="yml" value="1261" />
+          <entry key="yml" value="1283" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -71,22 +71,13 @@
           <entry key="Markdown" value="15768" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="1309" />
-          <entry key="YAML" value="1261" />
+          <entry key="YAML" value="1283" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/my.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1223">
-              <caret line="301" column="13" selection-start-line="301" selection-start-column="13" selection-end-line="301" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/minima/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,7 +120,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -137,6 +128,15 @@
                 <caret column="49" selection-start-column="49" selection-end-column="49" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -252,7 +252,6 @@
         <option value="$PROJECT_DIR$/_includes/home_sections/default.html" />
         <option value="$PROJECT_DIR$/_includes/home_sections/end_sections.html" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_projects/award_and_funding.md" />
         <option value="$PROJECT_DIR$/_layouts/projects.html" />
         <option value="$PROJECT_DIR$/_includes/project_sections/default.html" />
@@ -272,6 +271,7 @@
         <option value="$PROJECT_DIR$/industrial.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -373,12 +373,12 @@
       <workItem from="1557541643991" duration="25068000" />
       <workItem from="1557629643760" duration="17556000" />
       <workItem from="1557749375346" duration="22796000" />
-      <workItem from="1557840413958" duration="86712000" />
+      <workItem from="1557840413958" duration="86855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166872000" />
+    <option name="totallyTimeSpent" value="167015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-8" width="2560" height="1329" extended-state="6" />
@@ -725,13 +725,6 @@
     <entry file="file://$PROJECT_DIR$/_sass/minima/_syntax-highlighting.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/my.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1223">
@@ -811,6 +804,13 @@
             <caret column="49" selection-start-column="49" selection-end-column="49" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
