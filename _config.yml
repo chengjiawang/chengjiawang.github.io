@@ -1,9 +1,10 @@
 title: Chengjia Wang
 author: Chengjia Wang
-email: chengjia.wang@ed.ac.uk
-description: > # this means to ignore newlines until "show_exerpts:"
-  Chengjia Wang
 url: https://chengjiawang.github.io
+email: chengjia.wang@ed.ac.uk
+robots: Chengjia Wang
+description: > # this means to ignore newlines until "show_exerpts:"
+  Chengjia Wang, chengjia wang, Dr. Chengjia Wang, dr. chengjia wang
 
 
 show_excerpts: true # set to true to show excerpts on the homepage
