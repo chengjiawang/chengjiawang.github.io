@@ -6,6 +6,8 @@ permalink: #Selected-Publications-and-Patents
 
 *Sorry that for works developed in Toshiba, and work directly applied to real on-going clinical trials, code and dataset can not be released due to confidential or consent agreements. Some papers/results can be available on requests. Other research output are available [here](https://www.research.ed.ac.uk/portal/en/persons/chengjia-wang(4a15cc51-093c-4b55-99f3-e102210ad2fd)/publications.html).*
 
+**Chengjia Wang**, Shizhou Dong, Xiaofeng Zhao, Giorgos Papanastasiou, Heye Zhang, Guang Yang, “SaliencyGAN: Deep Learning Semi-supervised Salient Object Detection in the Fog of IoT ”, IEEE TII, 2019
+
 **Chengjia Wang**, Keith A Goatman, James Boardman, Erin Beveridge, David Newby, Scott Semple. **Distance Oriented Particle Swarm Optimizer for Brain Image Registration**. IEEE Access, 2019. [[paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/08677273.pdf)]
 
 Giorgos Papanastasiou, Mark Rodrigues, **Chengjia Wang**, Kerstin Heurling, Rustam Salman, Gillian Macnaught. **Pharmacokinetic analysis of 18F-flutemetamol uptake in cerebral amyloid angiopathy using PET-MR imaging.**

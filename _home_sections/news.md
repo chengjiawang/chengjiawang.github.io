@@ -3,11 +3,12 @@ title: News & Upcoming Events
 order: 3
 permalink: #News-Upcoming-Events
 ---
-* [**upcoming**] Attending IJCAI2019 and ICVSS 2019 <br>
 * [**upcoming**] Our Tensorlayer2.0 course imaging course starting this June in [IIAT](http://106.15.88.217/), Hangzhou.<br>
 * [**upcoming**] I'm going to deliver a talk in IIAT, Hangzhou <br>
-* [05/2019] Two papers accepted to ACCESS and IJCAI2019 and joint Network <br>
-* [04/2019] Two papers accepted in PSMR, TMI and TIP paper now under review <nr>
+* [10/2019] IEEE TII paper about AI in IoT accepted, attended MICCAI 2019 in Shenzhen
+* [09/2019] Three papers accepted to MICCAI and associated workshops two orals <br>
+* [05/2019] Our accepted to ACCESS <br>
+* [04/2019] Two papers accepted in PSMR, TMI and TII paper now under review <nr>
 * [12/2018] Received Amazon AWS Research Awards 2018-2019
 * [09/2018] Attending MICCAI 2018 in Granada, Spain <br>
 * [08/2018] Two papers accepted to MICCAI-SASHIMI (oral) and MICCAI-STACOM (oral) <br>
@@ -22,6 +23,5 @@ permalink: #News-Upcoming-Events
 * [06/2017] Received Microsoft Azure Research Award aortic aneurysm paper is now presented in ISMRM 2016.
 * [10/2016] The follow-up work of our award winning 
 * [09/2016] Started my work in BHF Centre for Cardiovascular Science as Machine Learning Research Fellow, supported by and as co-applicant of our BHF fund (RG/16/10/32375) <br>
-* [06/2016] Passed my PhD Thesis Viva, big thanks to my supervisors Dr. Scott Semple, Dr. Keith Goatman, Prof. David Newby, from now on, Dr. Wang, finalised last bit of work in Toshiba <br>
 * [03/2016] US Patent (9275432) granted for our in-house cross-modality registration and segmentation software, algorithm, GUI and device <br>
 * [12/2015] Four papers/abstracts accepted in ISBI, ISMRM, ESMRMB, Centre 4 Cardiovascular Science Symposium–EBQ Award Most Translatable Poster-winner ([news](https://twitter.com/edinburghbq/status/481751286954885120?lang=en-gb)), our paper won Magna Cum Laude Merit award, and Merit award
