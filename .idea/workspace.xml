@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="229f7762-9b16-40d6-af23-f25476ff460d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_home_sections/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_home_sections/news.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_home_sections/professional_activities.md" beforeDir="false" afterPath="$PROJECT_DIR$/_home_sections/professional_activities.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -98,8 +97,8 @@
         <entry file="file://$PROJECT_DIR$/_home_sections/professional_activities.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="517">
-                <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <first_editor relative-caret-position="251">
+                <caret line="8" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -392,18 +391,18 @@
       <workItem from="1558143663937" duration="14713000" />
       <workItem from="1560142135803" duration="4000" />
       <workItem from="1570383170315" duration="3433000" />
-      <workItem from="1579281678291" duration="1558000" />
+      <workItem from="1579281678291" duration="2442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193138000" />
+    <option name="totallyTimeSpent" value="194022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-8" width="2560" height="1329" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24990067" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24990067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -415,7 +414,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3299539" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3299539" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Run Dashboard" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -844,8 +843,8 @@
     <entry file="file://$PROJECT_DIR$/_home_sections/professional_activities.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="517">
-            <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <first_editor relative-caret-position="251">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
         </state>

@@ -7,7 +7,6 @@ permalink: #Professional-Activities
 ## Memberships
 IEEE, IEEE EMBS, MICCAI Society, ARUK, ISMRM, ESMRMB
 
-
 ## Conference & Journal Reviews
 IEEE Transactions on Evolutionary Computing <br>
 IEEE Transactions on Medical Imaging <br>
