@@ -13,6 +13,7 @@ IEEE Transactions on Evolutionary Computing <br>
 IEEE Transactions on Medical Imaging <br>
 IEEE Transactions on on Neural Networks and Learning System <br>
 IEEE Access <br>
+Medical Image Analysis <br>
 Computers in Biology and Medicine <br>
 Future Generation Computer Systems <br>
 

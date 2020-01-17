@@ -4,8 +4,10 @@ order: 3
 permalink: #News-Upcoming-Events
 ---
 * [**upcoming**] Our Tensorlayer2.0 course imaging course starting this June in [IIAT](http://106.15.88.217/), Hangzhou.<br>
-* [**upcoming**] I'm going to deliver a talk in IIAT, Hangzhou <br>
-* [10/2019] IEEE TII paper about AI in IoT accepted, attended MICCAI 2019 in Shenzhen
+* [01/2020] A JBHI paper submitted
+* [11/2019] Two TMI paper submitted, granted the reward of Hangzhou "521 Talent" programme
+* [10/2019] I'm going to deliver a talk in IIAT, Hangzhou <br>
+* [10/2019] IEEE TII paper about AI in IoT accepted, attended MICCAI 2019 in Shenzhen <br>
 * [09/2019] Three papers accepted to MICCAI and associated workshops two orals <br>
 * [05/2019] Our accepted to ACCESS <br>
 * [04/2019] Two papers accepted in PSMR, TMI and TII paper now under review <nr>
