@@ -7,7 +7,8 @@ order: 1
 include: 
 permalink: Research-Interests
 ---
-**AI in Medical Imaging, Deep Learning and Machine Learning, Computer Vision, Computational health care**
+
+**Deep Learning and Machine Learning in Medicine, Computer Vision, Computational health care**
 
 With an computer vision background, I've been mainly focusing on frontier technology of machine learning. 
 
