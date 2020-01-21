@@ -3,10 +3,12 @@ title: Talks
 order: 7
 permalink: #Talks
 ---
+* "AI aided targeted therapy for cancers based medical imaging and genetic data analysis" <br>
+  at Imperial Institute of Advanced Technology (IIAT), Hangzhou 11/2019<br>
 
 * "AI in Medical Imaging: Brain, Heart, and more" <br>
   at China-Britain Artificial Intelligence Association, 11/2018 <br>
-  at Imperial Institute of Advanced Technology (IIAT), Hangzhou 09/2018<br>
+  at Imperial Institute of Advanced Technology (IIAT), Hangzhou 10/2019<br>
 
 * "Deep learning applied to multi-modality cardiovascular images: towards fully automatic analysis and interpretation" <br>
   at Institute of Digital Communications, University of Edinburgh, 08/2018 <br>

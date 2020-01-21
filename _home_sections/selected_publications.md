@@ -4,9 +4,27 @@ order: 5
 permalink: #Selected-Publications-and-Patents
 ---
 
+
 *Sorry that for works developed in Toshiba, and work directly applied to real on-going clinical trials, code and dataset can not be released due to confidential or consent agreements. Some papers/results can be available on requests. Other research output are available [here](https://www.research.ed.ac.uk/portal/en/persons/chengjia-wang(4a15cc51-093c-4b55-99f3-e102210ad2fd)/publications.html).*
 
-**Chengjia Wang**, Shizhou Dong, Xiaofeng Zhao, Giorgos Papanastasiou, Heye Zhang, Guang Yang, “SaliencyGAN: Deep Learning Semi-supervised Salient Object Detection in the Fog of IoT ”, IEEE TII, 2019
+--
+### **Recently Accepted/Major Revision/Submitted**
+Michelle C William et al., **Low-attenuation non-calcified plaque on coronary CT angiography predicts myocardial infarction, results from the Multicenter SCOT-HEART trial**. Circulation. (Accepted)
+
+C Wang et al., **FIRE: unsupervised bi-directional inter-modality registration using deep networks**. CMIG. (Minor Revision)
+
+1 paper about zero-shot image segmentation. IEEE TMI. (Major Revision)
+
+1 paper about brain aging synthesis. IEEE TMI. (Submitted)
+
+--
+### **Published**
+
+**Chengjia Wang**, Giorgos Papanastasiou, Sotirios Tsaftaris, Guang Yang, Calum Gray, David Newby, Gillian Macnaught, Tom MacGillivray, **TPSDicyc: Improved Deformation Invariant Cross-domain Medical Image Synthesis**, MICCAI-MLMIR 2019.
+
+**Chengjia Wang**, Shizhou Dong, Xiaofeng Zhao, Giorgos Papanastasiou, Heye Zhang, Guang Yang, **SaliencyGAN: Deep Learning Semi-supervised Salient Object Detection in the Fog of IoT**, IEEE TII, 2019
+
+Xiahai Zhuang, Lei Li, Christian Payer, Darko Stern, Martin Urschler, Mattias P Heinrich, Julien Oster, **Chunliang Wang**, Orjan Smedby, Cheng Bian, Xin Yang, Pheng-Ann Heng, Aliasghar Mortazi, Ulas Bagci, Guanyu Yang. **Evaluation of Algorithms for Multi-Modality Whole Heart Segmentation: An Open-Access Grand Challenge**, Medical Image Analysis 2019.
 
 **Chengjia Wang**, Keith A Goatman, James Boardman, Erin Beveridge, David Newby, Scott Semple. **Distance Oriented Particle Swarm Optimizer for Brain Image Registration**. IEEE Access, 2019. [[paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/08677273.pdf)]
 
@@ -39,6 +57,5 @@ Yolanda Koutraki, Olivia Mcbride, J. Robson, Racheal Forsythe, **Chengjia Wang**
 Yolanda Koutraki, **Chengjia Wang**, Jennifer Robson, Olivia Mcbride, Rachael Forsythe, Tom MacGillivray, Calum Gray, Keith Goatman, J. Camilleri-Brennan, David E Newby, and Scott I Semple. **3D visualization of ‘Hotspots’ of inflammation in abdominal aortic aneurysms (AAA)** ISMRM. 2015.
 
 Scott Semple, Shirjel R Alam, Tom J MacGillivray, Marc R Dweck, Anoop S Shah, Jenny Richards, **Chengjia Wang**, Ninian Lang, Graham McKillop, Saeed Mirsadraee, Renzo Pessotto, Vipin Zamvar, Peter Henriksen, David Newby. **Quantitative myocardial inflammation assessed using a novel USPIO-Magnetic Resonance Imaging Acquisition and Analysis Protocol**, Journal of cardiovascular magnetic resonance: official journal of the Society for Cardiovascular Magnetic Resonance. 2013.
-
 
 

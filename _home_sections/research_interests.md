@@ -2,16 +2,14 @@
 title: Research Interests
 image:
 # Set the display order for this section
-order: 1
+order: 2
 # Specify the layout for this section
 include: 
 permalink: Research-Interests
 ---
 
-**Deep Learning and Machine Learning in Medicine, Computer Vision, Computational health care**
+**Machine Learning in Medicine Data Analysis, Computational Healthcare, Internet of Things**
 
-With an computer vision background, I've been mainly focusing on frontier technology of machine learning. 
+I focus on frontier technology of machine learning applicable to medical data analysis and clinical decision making. This involves object detection, segmentation and quantification in medical images, and merging multi-modal (e.g., **image, genetic and molecular** data), simulation, cross-domain synthesis, life-long learning for automatic diagnosis and treatment planning with imperfect data. I have expertise in deep learning with multi-modal and high-dimensional medical data. 
 
-Obtained a machine learning PhD degree in medical school, I've been focusing on cross-domain researches at machine learning and medical imaging in interdisciplinary groups. Not only for improving accuracy and generalisability of general purpose computer vision application, such as, cross-modal image synthesis, segmentation, registration, data fusion, quantification, lesion and pathology detection, reconstruction but also computer aided diagnosis, therapy planning, and surgical robotic perception, which can be immediately applied to real ongoing clinical research projects. I have expertise in deep learning for multi-modality medical image computing, especially for **brain**, **coronary artery**, **cardiac data** and retina data. I've been involved in or lead the machine learning research for over 12 clinical trials.
-
-Recently, I widely investigate the problems of meta learning, graphical neural nets, model generalisation, few-shot learning and invertible machine learning models for medical scenarios. Pareto Optimality in deep neural networks.
+Recently, I widely investigate the problems of interpretability and generalizability of deep learning models that reached a status of Pareto Optimality, and applicability of deep neural networks in the complete clinical decision pipeline. 
