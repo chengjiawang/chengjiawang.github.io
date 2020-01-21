@@ -10,4 +10,4 @@ The deep learning based inverse-consistent registration model
   * SIMULTANEOUS joint training for cross-modal synthesis and registration
 ![proj_image](/assets/images/projects/FireReg.png)
 
-Paper under review (details will be given soon).
+Paper accepted in CMIG (details will be given soon).
