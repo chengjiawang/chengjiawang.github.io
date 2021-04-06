@@ -2,7 +2,7 @@
 title: Research Interests
 image:
 # Set the display order for this section
-order: 2
+order: 1
 # Specify the layout for this section
 include: 
 permalink: Research-Interests
